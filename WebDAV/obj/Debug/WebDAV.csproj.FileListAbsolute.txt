@@ -1,0 +1,29 @@
+D:\Git\KSiS_Lab_9\WebDAV\WebDAV\bin\Debug\WebDAV.exe.config
+D:\Git\KSiS_Lab_9\WebDAV\WebDAV\bin\Debug\WebDAV.exe
+D:\Git\KSiS_Lab_9\WebDAV\WebDAV\bin\Debug\WebDAV.pdb
+D:\Git\KSiS_Lab_9\WebDAV\WebDAV\obj\Debug\WebDAV.csprojResolveAssemblyReference.cache
+D:\Git\KSiS_Lab_9\WebDAV\WebDAV\obj\Debug\WebDAV.Form1.resources
+D:\Git\KSiS_Lab_9\WebDAV\WebDAV\obj\Debug\WebDAV.Properties.Resources.resources
+D:\Git\KSiS_Lab_9\WebDAV\WebDAV\obj\Debug\WebDAV.csproj.GenerateResource.Cache
+D:\Git\KSiS_Lab_9\WebDAV\WebDAV\obj\Debug\WebDAV.exe
+D:\Git\KSiS_Lab_9\WebDAV\WebDAV\obj\Debug\WebDAV.pdb
+C:\Users\User\Downloads\KSiS_Lab_9-master\WebDAV\WebDAV\obj\Debug\WebDAV.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\KSiS_Lab_9-master\WebDAV\WebDAV\obj\Debug\WebDAV.Properties.Resources.resources
+C:\Users\User\Downloads\KSiS_Lab_9-master\WebDAV\WebDAV\obj\Debug\WebDAV.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\KSiS_Lab_9-master\WebDAV\WebDAV\obj\Debug\WebDAV.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\KSiS_Lab_9-master\WebDAV\WebDAV\obj\Debug\WebDAV.exe
+C:\Users\User\Downloads\KSiS_Lab_9-master\WebDAV\WebDAV\obj\Debug\WebDAV.pdb
+C:\Users\User\Downloads\KSiS_Lab_9-master\WebDAV\WebDAV\obj\Debug\WebDAV.Main.resources
+C:\Users\User\Downloads\KSiS_Lab_9-master\WebDAV\WebDAV\bin\Debug\WebDAV.exe.config
+C:\Users\User\Downloads\KSiS_Lab_9-master\WebDAV\WebDAV\bin\Debug\WebDAV.exe
+C:\Users\User\Downloads\KSiS_Lab_9-master\WebDAV\WebDAV\bin\Debug\WebDAV.pdb
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№9\WebDAV\WebDAV\bin\Debug\WebDAV.exe.config
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№9\WebDAV\WebDAV\bin\Debug\WebDAV.exe
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№9\WebDAV\WebDAV\bin\Debug\WebDAV.pdb
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№9\WebDAV\WebDAV\obj\Debug\WebDAV.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№9\WebDAV\WebDAV\obj\Debug\WebDAV.Main.resources
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№9\WebDAV\WebDAV\obj\Debug\WebDAV.Properties.Resources.resources
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№9\WebDAV\WebDAV\obj\Debug\WebDAV.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№9\WebDAV\WebDAV\obj\Debug\WebDAV.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№9\WebDAV\WebDAV\obj\Debug\WebDAV.exe
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№9\WebDAV\WebDAV\obj\Debug\WebDAV.pdb
